@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons in Parliament assembled for the better observation of the monethly fast.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22129</idno><idno type="EEBO-CITATION">12288826</idno>
+  <idno type="VID">197552</idno>
+  <idno type="EEBO-PROQUEST">2240972930</idno>
+  
+            <idno type="STC">Wing E1943</idno>
+            <idno type="OCLC">12288826</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197552)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E114, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons in Parliament assembled for the better observation of the monethly fast.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaiklock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197552:1"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS in <hi>Parliament</hi> assembled; For the better observation of the Monethly FAST.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii 24. August. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>It is this day Ordered that this Ordinance for the better observing of the Fast, bee forthwith printed and published.</p>
+                        <closer>
+                           <dateline>
+                              <date>Hen. Elsynge, Cler. Parl. D. Com.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Laurence Blaiklock.</hi>
+               <add> August .26.</add> 1642.</p>
+            <pb facs="tcp:197552:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="1" facs="tcp:197552:2"/>
+            <head>An ORDINANCE OF THE LORDS and COMMONS in PARLIAMENT assembled.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Kings most excellent Ma<g ref="char:EOLhyphen"/>jesty, upon the request of the Lords and Commons in this present Parlia<g ref="char:EOLhyphen"/>ment assembled, and by and with their advice and consent, considering the lamentable and distressed condition of his good subjects in the Kingdom of <hi>Ireland;</hi> (that there might be a generall humiliation of all the estates of this Kingdom before Almighty
+<pb n="2" facs="tcp:197552:3"/> God in Fasting and Prayer) was graciously pleased to command the keeping of a Monethly Fast; and to the end that all persons might the better take notice thereof (and to leave such without excuse, as should not duly keep and observe the same) did afterward by his Proclamation of the 8<seg rend="sup">th</seg> of <hi>Ianuary</hi> 1641. appoint that the same should bee generally, publikely, and so<g ref="char:EOLhyphen"/>lemnly holden, and kept, as well by abstinence from food, as by publike prayers, preaching, and hearing of the Word of God, and other Religious and ho<g ref="char:EOLhyphen"/>ly duties, in all Cathedrals, Collegiate, and Parish Churches, and Chappels▪ within the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and Dominion of <hi>Wales</hi> (without any exception) on the last Wensday of every Moneth, to continue during the troubles in the said Kingdom of <hi>Ireland:</hi> All which his Majesty did straitly charge and com<g ref="char:EOLhyphen"/>mand, should be reverently and devoutly performed by all his Subjects, as they desire the blessing of Almighty God, and would avoyd his heavie indignation against this land and people; and upon paine of such punish<g ref="char:EOLhyphen"/>ments as may justly bee inflicted upon all such as shall contemne or neglect so religious a work and dutie.</p>
+            <p>And whereas the Lords and Commons in both Houses of Parliament, have received divers informati<g ref="char:EOLhyphen"/>ons from severall parts of this Kingdome and Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> of the great neglect of the due obser<g ref="char:EOLhyphen"/>vation and keeping of the said Fast upon the dayes ap<g ref="char:EOLhyphen"/>pointed,
+<pb n="3" facs="tcp:197552:3"/> and of the profanations of the same, by many irreligious, ill-affected, loose, and scandalous persons, as well of the Clergie as others, who are so farre from afflicting their soules and loosing the bands of wickednesse, as that they provoke the wrath of Al<g ref="char:EOLhyphen"/>mighty God, and make so pious a meanes to procure his blessings, the occasion of greater Judgements.</p>
+            <p>For the prevention whereof for the time to come, the Lords and Commons doe order, declare, ordaine, that in all and every the Cathedrals, Collegiate and Parish Churches, and Chappels within the Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> (without any exception) upon every Lords day, next and immediately before any the dayes appointed for the said publike Fast, the Parson, Vicat, Curate, or Minister, that upon that day shall Officiate, or exercise in any of the said Cathedrals, Collegiate, Parish Churches or Chap<g ref="char:EOLhyphen"/>pels, shall give publike notice in every of the said Cathedralls, Collegiate, Parish Churches, or Chap<g ref="char:EOLhyphen"/>pels respectively, of the Fast day next ensuing, imme<g ref="char:EOLhyphen"/>diately after Sermon, or prayer ended in the forenoone, before the Congregation bee dismissed, earnestly ex<g ref="char:EOLhyphen"/>horting and perswading all the people to the solemne due keeping and religious observation of the whole day appointed for the said Fast, and that they would repaire to some Church or Chappell, there diligently and reverently to attend all such holy duties as shall be used in the observance of the same; that they fore<g ref="char:EOLhyphen"/>beare
+<pb n="4" facs="tcp:197552:4"/> to use all manner of sports and pastimes whatsoe<g ref="char:EOLhyphen"/>ver, &amp; their ordinary Trades and Callings upon the said day, as well Carriers, Waggoners, Carters, Waynmen, Drovers, Butchers, Hucksters▪ Shop-keepers, Labou<g ref="char:EOLhyphen"/>rers; or any others using any Art, Trade, Mystery or mannuall Occupation whatsoever, and that all Vintners, Taverners, Ale-house-keepers, and Keepers of Victu<g ref="char:EOLhyphen"/>alling-houses, doe forbeare to keep open their doores, Bulks, or Shops, or to sell or utter (except in cases of extreame necessitie) any Wine, Beare, Ale, or Victuall, till the publike exercises and religious duties of that day in the respective Cathedrals, Collegiate, Parish Churches and Chappels be past and over.</p>
+            <p>And lastly, all and every the Justices of the Peace, Mayors, Bayliffes, Constables, Church-Wardens, and other Officers inhabiting or residing within the limits or precincts of any such Cathedrall, Collegiate Parish Church, or Chappell, are hereby required to take speciall notice as well of such Parson, Vicar, Curate, or other Minister that ought to officiate in any of the said Cathedrals, Collegiate, and Parish Churches or Chappels, upon any such day appointed for the said Fast, that shall either refuse or neglect to do the same, or not do or cause the same to be done in that religious and solemn manner as it ought to be, or that shall refuse to give notice of the Fast day at the time and in manner as aforesaid, and forthwith to return their names and the names of all such (from time to time) as
+<pb n="5" facs="tcp:197552:4"/> shall wilfully offend herein, in contempt of the Lawes, his Majesty, and both Houses of Parliament, unto some one or more of the Knights, Citizens, or Burgesses that serve for the County where such offence is, or shall be committed, that some speedy course may be taken for the severe punishing of such as shall offend herein according to the Lawes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Mercurii 24 August. 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered, that this Ordinance for the better observing of the Fast be forth<g ref="char:EOLhyphen"/>with printed and published.</p>
+            <closer>
+               <signed>Hen. Elsynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
